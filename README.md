@@ -2,6 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/sharetribe/sharetribe/tree/master.svg?style=svg)](https://circleci.com/gh/sharetribe/sharetribe/tree/master) [![Dependency Status](https://gemnasium.com/sharetribe/sharetribe.png)](https://gemnasium.com/sharetribe/sharetribe) [![Code Climate](https://codeclimate.com/github/sharetribe/sharetribe.png)](https://codeclimate.com/github/sharetribe/sharetribe)
 
+
 Sharetribe is an open source platform to create your own peer-to-peer marketplace.
 
 Would you like to set up your marketplace in one minute without touching code? [Head to Sharetribe.com](https://www.sharetribe.com).
@@ -97,6 +98,7 @@ Before you get started, the following needs to be installed:
 1.  Install node modules:
 
     ```bash
+    nvm install
     npm install
     ```
 
